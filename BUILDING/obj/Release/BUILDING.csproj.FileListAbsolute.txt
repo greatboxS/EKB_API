@@ -1,0 +1,49 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.Migrations.BuildingSchedule.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csproj.GenerateResource.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.Migrations.BuildingSchedule.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csproj.GenerateResource.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csprojAssemblyReference.cache
+E:\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.dll.config
+E:\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.dll
+E:\EKANBAN_SYS\BUILDING\bin\Release\BUILDING.pdb
+E:\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.dll
+E:\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.SqlServer.dll
+E:\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.dll
+E:\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.pdb
+E:\EKANBAN_SYS\BUILDING\bin\Release\SYS_MODELS.dll.config
+E:\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.xml
+E:\EKANBAN_SYS\BUILDING\bin\Release\EntityFramework.SqlServer.xml
+E:\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csprojAssemblyReference.cache
+E:\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.Migrations.BuildingSchedule.resources
+E:\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csproj.GenerateResource.cache
+E:\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.csproj.CopyComplete
+E:\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.dll
+E:\EKANBAN_SYS\BUILDING\obj\Release\BUILDING.pdb
+E:\EKANBAN_SYS\BUILDING\bin\Release\Newtonsoft.Json.dll
+E:\EKANBAN_SYS\BUILDING\bin\Release\Newtonsoft.Json.xml

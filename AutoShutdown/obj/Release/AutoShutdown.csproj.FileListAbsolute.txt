@@ -1,0 +1,5 @@
+E:\EKANBAN_SYS\AutoShutdown\bin\Release\AutoShutdown.exe
+E:\EKANBAN_SYS\AutoShutdown\bin\Release\AutoShutdown.exe.config
+E:\EKANBAN_SYS\AutoShutdown\obj\Release\AutoShutdown.csprojAssemblyReference.cache
+E:\EKANBAN_SYS\AutoShutdown\obj\Release\AutoShutdown.exe
+E:\EKANBAN_SYS\AutoShutdown\obj\Release\AutoShutdown.pdb

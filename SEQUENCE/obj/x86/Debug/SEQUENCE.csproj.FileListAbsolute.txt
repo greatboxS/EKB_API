@@ -1,0 +1,16 @@
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\SEQUENCE.dll.config
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\SEQUENCE.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\SEQUENCE.pdb
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\EntityFramework.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\EntityFramework.SqlServer.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\Newtonsoft.Json.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\SYS_MODELS.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\SYS_MODELS.pdb
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\SYS_MODELS.dll.config
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\EntityFramework.xml
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\EntityFramework.SqlServer.xml
+E:\EKANBAN_SYS\SEQUENCE\bin\x86\Debug\Newtonsoft.Json.xml
+E:\EKANBAN_SYS\SEQUENCE\obj\x86\Debug\SEQUENCE.csprojAssemblyReference.cache
+E:\EKANBAN_SYS\SEQUENCE\obj\x86\Debug\SEQUENCE.csproj.CopyComplete
+E:\EKANBAN_SYS\SEQUENCE\obj\x86\Debug\SEQUENCE.dll
+E:\EKANBAN_SYS\SEQUENCE\obj\x86\Debug\SEQUENCE.pdb

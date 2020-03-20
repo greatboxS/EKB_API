@@ -1,0 +1,35 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EMPLOYEE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EMPLOYEE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EMPLOYEE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.Migrations.EmployeeDb.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.csproj.GenerateResource.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EMPLOYEE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EMPLOYEE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EMPLOYEE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.Migrations.EmployeeDb.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.csproj.GenerateResource.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EMPLOYEE\obj\x64\Debug\EMPLOYEE.pdb

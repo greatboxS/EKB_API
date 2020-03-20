@@ -1,0 +1,9 @@
+E:\EKANBAN_SYS\UpdateComponent\bin\Debug\UpdateComponent.exe.config
+E:\EKANBAN_SYS\UpdateComponent\bin\Debug\UpdateComponent.exe
+E:\EKANBAN_SYS\UpdateComponent\bin\Debug\UpdateComponent.pdb
+E:\EKANBAN_SYS\UpdateComponent\obj\Debug\UpdateComponent.Form1.resources
+E:\EKANBAN_SYS\UpdateComponent\obj\Debug\UpdateComponent.Properties.Resources.resources
+E:\EKANBAN_SYS\UpdateComponent\obj\Debug\UpdateComponent.csproj.GenerateResource.cache
+E:\EKANBAN_SYS\UpdateComponent\obj\Debug\UpdateComponent.exe
+E:\EKANBAN_SYS\UpdateComponent\obj\Debug\UpdateComponent.pdb
+E:\EKANBAN_SYS\UpdateComponent\obj\Debug\UpdateComponent.csprojAssemblyReference.cache

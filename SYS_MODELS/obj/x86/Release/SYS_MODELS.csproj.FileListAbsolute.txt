@@ -1,0 +1,12 @@
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\SYS_MODELS.dll.config
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\SYS_MODELS.dll
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\SYS_MODELS.pdb
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\EntityFramework.dll
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\EntityFramework.SqlServer.dll
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\Newtonsoft.Json.dll
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\EntityFramework.xml
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\EntityFramework.SqlServer.xml
+E:\EKANBAN_SYS\SYS_MODELS\bin\x86\Release\Newtonsoft.Json.xml
+E:\EKANBAN_SYS\SYS_MODELS\obj\x86\Release\SYS_MODELS.csproj.CopyComplete
+E:\EKANBAN_SYS\SYS_MODELS\obj\x86\Release\SYS_MODELS.dll
+E:\EKANBAN_SYS\SYS_MODELS\obj\x86\Release\SYS_MODELS.pdb

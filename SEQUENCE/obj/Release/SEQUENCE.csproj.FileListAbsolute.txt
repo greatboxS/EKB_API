@@ -1,0 +1,48 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\bin\Release\Newtonsoft.Json.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.pdb
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.dll.config
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\SEQUENCE.pdb
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.SqlServer.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\Newtonsoft.Json.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.dll
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.pdb
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\SYS_MODELS.dll.config
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.xml
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\EntityFramework.SqlServer.xml
+E:\EKANBAN_SYS\SEQUENCE\bin\Release\Newtonsoft.Json.xml
+E:\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.csprojAssemblyReference.cache
+E:\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.csproj.CopyComplete
+E:\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.dll
+E:\EKANBAN_SYS\SEQUENCE\obj\Release\SEQUENCE.pdb

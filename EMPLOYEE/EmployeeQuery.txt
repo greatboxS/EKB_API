@@ -1,0 +1,64 @@
+﻿USE master;
+GO
+
+IF DB_ID (N'_EMPLOYEE') IS NOT NULL
+DROP DATABASE _EMPLOYEE;
+GO
+
+CREATE DATABASE _EMPLOYEE;
+GO
+
+USE [_EMPLOYEE]
+GO
+
+CREATE TABLE [dbo].[AppUser] (
+    [id] [int] NOT NULL IDENTITY,
+    [user] [nvarchar](max),
+    [password] [nvarchar](max),
+    [userClass] [int],
+    CONSTRAINT [PK_dbo.AppUser] PRIMARY KEY ([id])
+)
+CREATE TABLE [dbo].[Department] (
+    [id] [int] NOT NULL IDENTITY,
+    [Code] [nvarchar](max),
+    [Descriptions] [nvarchar](max),
+    CONSTRAINT [PK_dbo.Department] PRIMARY KEY ([id])
+)
+CREATE TABLE [dbo].[Employee] (
+    [id] [int] NOT NULL IDENTITY,
+    [RFID_Code] [nvarchar](max),
+    [UserCode] [int] NOT NULL,
+    [Name] [nvarchar](max),
+    [ExperienceYears] [int],
+    [Address] [nvarchar](max),
+    [Description] [nvarchar](max),
+    [Building_Id] [int],
+    [Department_Id] [int],
+    [JobTitle_Id] [int],
+    [Position_Id] [int],
+    CONSTRAINT [PK_dbo.Employee] PRIMARY KEY ([id])
+)
+CREATE INDEX [IX_Department_Id] ON [dbo].[Employee]([Department_Id])
+CREATE INDEX [IX_JobTitle_Id] ON [dbo].[Employee]([JobTitle_Id])
+CREATE INDEX [IX_Position_Id] ON [dbo].[Employee]([Position_Id])
+CREATE TABLE [dbo].[JobTitle] (
+    [id] [int] NOT NULL IDENTITY,
+    [Job] [nvarchar](max),
+    CONSTRAINT [PK_dbo.JobTitle] PRIMARY KEY ([id])
+)
+CREATE TABLE [dbo].[Position] (
+    [id] [int] NOT NULL IDENTITY,
+    [PostionName] [nvarchar](max),
+    [Description] [nvarchar](max),
+    CONSTRAINT [PK_dbo.Position] PRIMARY KEY ([id])
+)
+ALTER TABLE [dbo].[Employee] ADD CONSTRAINT [FK_dbo.Employee_dbo.JobTitle_JobTitle_Id] FOREIGN KEY ([JobTitle_Id]) REFERENCES [dbo].[JobTitle] ([id])
+ALTER TABLE [dbo].[Employee] ADD CONSTRAINT [FK_dbo.Employee_dbo.Position_Position_Id] FOREIGN KEY ([Position_Id]) REFERENCES [dbo].[Position] ([id])
+ALTER TABLE [dbo].[Employee] ADD CONSTRAINT [FK_dbo.Employee_dbo.Department_Department_Id] FOREIGN KEY ([Department_Id]) REFERENCES [dbo].[Department] ([id])
+CREATE TABLE [dbo].[__MigrationHistory] (
+    [MigrationId] [nvarchar](150) NOT NULL,
+    [ContextKey] [nvarchar](300) NOT NULL,
+    [Model] [varbinary](max) NOT NULL,
+    [ProductVersion] [nvarchar](32) NOT NULL,
+    CONSTRAINT [PK_dbo.__MigrationHistory] PRIMARY KEY ([MigrationId], [ContextKey])
+)

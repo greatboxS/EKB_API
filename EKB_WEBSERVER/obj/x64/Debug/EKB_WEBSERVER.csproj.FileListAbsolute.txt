@@ -1,0 +1,233 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKB_WEBSERVER.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKB_WEBSERVER.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKB_WEBSERVER.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csc.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csc.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csc.rsp
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csi.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csi.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csi.rsp
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.AppContext.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Console.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\vbc.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\vbc.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\vbc.rsp
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\Antlr3.Runtime.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\BEAMCUT_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\COMPONENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_HIS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EMPLOYEE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\Newtonsoft.Json.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SCHEDULE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SEQUENCE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\STOCK_MANAGEMENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Helpers.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Mvc.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Optimization.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Razor.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\WebGrease.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\BEAMCUT_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\BEAMCUT_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\BUILDING.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\BUILDING.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\COMPONENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\COMPONENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_HIS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_HIS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EMPLOYEE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EMPLOYEE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SCHEDULE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SCHEDULE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SEQUENCE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SEQUENCE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\STOCK_MANAGEMENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\STOCK_MANAGEMENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\Newtonsoft.Json.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Helpers.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Mvc.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Optimization.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Razor.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\Antlr3.Runtime.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKB_WEBSERVER.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKB_WEBSERVER.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKB_WEBSERVER.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csc.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csc.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csc.rsp
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csi.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csi.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\csi.rsp
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.AppContext.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Console.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.Compression.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.FileSystem.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.IO.Pipes.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.AccessControl.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Claims.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.ValueTuple.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.XPath.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\vbc.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\vbc.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\vbc.rsp
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\VBCSCompiler.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\Antlr3.Runtime.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\BEAMCUT_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\COMPONENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_HIS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_SYS_LIB.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EMPLOYEE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SCHEDULE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SEQUENCE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\STOCK_MANAGEMENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Net.Http.Formatting.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Helpers.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.WebHost.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Mvc.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Optimization.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Razor.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Deployment.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Razor.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\WebGrease.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\BEAMCUT_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\BEAMCUT_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\BUILDING.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\COMPONENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\COMPONENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_HIS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_HIS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_SYS_LIB.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_SYS_LIB.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EKANBAN_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EMPLOYEE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EMPLOYEE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SCHEDULE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SCHEDULE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SEQUENCE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SEQUENCE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\STOCK_MANAGEMENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\STOCK_MANAGEMENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\Newtonsoft.Json.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Net.Http.Formatting.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Helpers.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Http.WebHost.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Mvc.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Optimization.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.Razor.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Deployment.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\System.Web.WebPages.Razor.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\Antlr3.Runtime.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKB_WEBSERVER\obj\x64\Debug\EKB_WEBSERVER.pdb

@@ -1,0 +1,57 @@
+﻿USE master;
+GO
+
+IF DB_ID (N'_SCHEDULE') IS NOT NULL
+DROP DATABASE _SCHEDULE;
+GO
+
+CREATE DATABASE _SCHEDULE;
+GO
+
+USE [_SCHEDULE]
+GO
+
+CREATE TABLE [dbo].[FilePath] (
+    [id] [int] NOT NULL IDENTITY,
+    [Path] [nvarchar](max),
+    [Type] [nvarchar](max),
+    CONSTRAINT [PK_dbo.FilePath] PRIMARY KEY ([id])
+)
+CREATE TABLE [dbo].[ScheduleClass] (
+    [id] [int] NOT NULL IDENTITY,
+    [Name] [nvarchar](max),
+    [LastModified] [datetime],
+    [UpdateSchProperties_Id] [int],
+    CONSTRAINT [PK_dbo.ScheduleClass] PRIMARY KEY ([id])
+)
+CREATE INDEX [IX_UpdateSchProperties_Id] ON [dbo].[ScheduleClass]([UpdateSchProperties_Id])
+CREATE TABLE [dbo].[Schedule] (
+    [id] [int] NOT NULL IDENTITY,
+    [PoNumber] [nvarchar](max),
+    [Model] [nvarchar](max),
+    [ModelName] [nvarchar](max),
+    [Article] [nvarchar](max),
+    [Quantity] [int],
+    [CuttingDate] [nvarchar](max),
+    [StitchindDate] [nvarchar](max),
+    [ProductionLine_Id] [int],
+    [ScheduleClass_Id] [int],
+    CONSTRAINT [PK_dbo.Schedule] PRIMARY KEY ([id])
+)
+CREATE INDEX [IX_ScheduleClass_Id] ON [dbo].[Schedule]([ScheduleClass_Id])
+CREATE TABLE [dbo].[UpdateSchProperties] (
+    [id] [int] NOT NULL IDENTITY,
+    [FileName] [nvarchar](max),
+    [CreatedDate] [datetime],
+    [ModifiedDate] [datetime],
+    CONSTRAINT [PK_dbo.UpdateSchProperties] PRIMARY KEY ([id])
+)
+ALTER TABLE [dbo].[ScheduleClass] ADD CONSTRAINT [FK_dbo.ScheduleClass_dbo.UpdateSchProperties_UpdateSchProperties_Id] FOREIGN KEY ([UpdateSchProperties_Id]) REFERENCES [dbo].[UpdateSchProperties] ([id])
+ALTER TABLE [dbo].[Schedule] ADD CONSTRAINT [FK_dbo.Schedule_dbo.ScheduleClass_ScheduleClass_Id] FOREIGN KEY ([ScheduleClass_Id]) REFERENCES [dbo].[ScheduleClass] ([id])
+CREATE TABLE [dbo].[__MigrationHistory] (
+    [MigrationId] [nvarchar](150) NOT NULL,
+    [ContextKey] [nvarchar](300) NOT NULL,
+    [Model] [varbinary](max) NOT NULL,
+    [ProductVersion] [nvarchar](32) NOT NULL,
+    CONSTRAINT [PK_dbo.__MigrationHistory] PRIMARY KEY ([MigrationId], [ContextKey])
+)

@@ -1,0 +1,9 @@
+E:\EKANBAN_SYS\UpdateComponent\bin\Release\UpdateComponent.exe.config
+E:\EKANBAN_SYS\UpdateComponent\bin\Release\UpdateComponent.exe
+E:\EKANBAN_SYS\UpdateComponent\bin\Release\UpdateComponent.pdb
+E:\EKANBAN_SYS\UpdateComponent\obj\Release\UpdateComponent.Form1.resources
+E:\EKANBAN_SYS\UpdateComponent\obj\Release\UpdateComponent.Properties.Resources.resources
+E:\EKANBAN_SYS\UpdateComponent\obj\Release\UpdateComponent.csproj.GenerateResource.cache
+E:\EKANBAN_SYS\UpdateComponent\obj\Release\UpdateComponent.exe
+E:\EKANBAN_SYS\UpdateComponent\obj\Release\UpdateComponent.pdb
+E:\EKANBAN_SYS\UpdateComponent\obj\Release\UpdateComponent.csprojAssemblyReference.cache

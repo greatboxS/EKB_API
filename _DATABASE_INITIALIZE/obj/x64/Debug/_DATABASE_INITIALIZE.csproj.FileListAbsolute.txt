@@ -1,0 +1,148 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_DATABASE_INITIALIZE.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_DATABASE_INITIALIZE.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_DATABASE_INITIALIZE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BEAMCUT_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\COMPONENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_HIS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKB_WEBSERVER.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EMPLOYEE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SCHEDULE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SEQUENCE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\STOCK_MANAGEMENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_AUTO_UPADATE_DB.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Optimization.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Mvc.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.WebHost.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_SYS_LIB.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Razor.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BEAMCUT_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BEAMCUT_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BUILDING.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BUILDING.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\COMPONENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\COMPONENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_HIS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_HIS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKB_WEBSERVER.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKB_WEBSERVER.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EMPLOYEE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EMPLOYEE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SCHEDULE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SCHEDULE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SEQUENCE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SEQUENCE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\STOCK_MANAGEMENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\STOCK_MANAGEMENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_AUTO_UPADATE_DB.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_AUTO_UPADATE_DB.exe.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Optimization.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Mvc.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.WebHost.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_SYS_LIB.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_SYS_LIB.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Razor.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.exe
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\WebGrease.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Antlr3.Runtime.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_DATABASE_INITIALIZE.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_DATABASE_INITIALIZE.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_DATABASE_INITIALIZE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BEAMCUT_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\COMPONENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_HIS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_SYS_LIB.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKB_WEBSERVER.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EMPLOYEE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SCHEDULE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SEQUENCE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\STOCK_MANAGEMENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_AUTO_UPADATE_DB.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Optimization.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Mvc.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Net.Http.Formatting.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.WebHost.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\WebGrease.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Microsoft.Web.Infrastructure.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Razor.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Razor.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Antlr3.Runtime.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Deployment.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BEAMCUT_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BEAMCUT_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\BUILDING.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\COMPONENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\COMPONENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_HIS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_HIS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_SYS_LIB.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_SYS_LIB.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKANBAN_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKB_WEBSERVER.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EKB_WEBSERVER.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EMPLOYEE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EMPLOYEE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SCHEDULE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SCHEDULE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SEQUENCE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SEQUENCE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\STOCK_MANAGEMENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\STOCK_MANAGEMENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_AUTO_UPADATE_DB.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\_AUTO_UPADATE_DB.exe.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Optimization.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Mvc.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Net.Http.Formatting.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Http.WebHost.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Razor.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.Razor.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\Antlr3.Runtime.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\bin\x64\Debug\System.Web.WebPages.Deployment.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.exe
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\_DATABASE_INITIALIZE\obj\x64\Debug\_DATABASE_INITIALIZE.pdb

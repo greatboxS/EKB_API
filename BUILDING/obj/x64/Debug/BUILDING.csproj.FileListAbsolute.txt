@@ -1,0 +1,30 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\BUILDING.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\BUILDING.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.Migrations.BuildingSchedule.resources
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.csproj.GenerateResource.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\BUILDING.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.Migrations.BuildingSchedule.resources
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.csproj.GenerateResource.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\BUILDING\obj\x64\Debug\BUILDING.pdb

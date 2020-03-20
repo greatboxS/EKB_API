@@ -1,0 +1,33 @@
+﻿namespace SYS_MODELS._ENUM
+{
+    public enum SysActionCode
+    {
+        UNKNOW,
+        SEQUENCE_FREE,
+        SEQUENCE_PREPARING,
+        SEQUENCE_CONFORM,
+
+        EKANBAN_ADD_NEW_ITEM,
+        EKANBAN_CONFIRM_ITEM,
+        EKANBAN_CLEAR_ITEM,
+
+        BEAMCUT_START_NEW,
+        BEAMCUT_CONTINUE,
+        BEAMCUT_CONFIRM_SIZE,
+        BEAMCUT_STOP,
+
+        UPDATE_SEQUENCE,
+        UPDATE_COMPONENT,
+
+        VIEW_SEQUENCE,
+
+        STOCK_START_PREAPARING,
+        STOCK_BEAM_START_CUTTING,
+        STOCK_AUTO_START_CUTTING,
+        STOCK_FINISH_AUTO,
+        STOCK_FINISH_BEAM,
+        STOCK_CONFIRM,
+        ONLINE ,
+        OFFLINE,
+    }
+}

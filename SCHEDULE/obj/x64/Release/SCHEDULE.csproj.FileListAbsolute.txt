@@ -1,0 +1,48 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\bin\x64\Release\Newtonsoft.Json.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.pdb
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.dll.config
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.dll
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SCHEDULE.pdb
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.dll
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.SqlServer.dll
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\Newtonsoft.Json.dll
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.dll
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.pdb
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\SYS_MODELS.dll.config
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.xml
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\EntityFramework.SqlServer.xml
+E:\EKANBAN_SYS\SCHEDULE\bin\x64\Release\Newtonsoft.Json.xml
+E:\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.csprojAssemblyReference.cache
+E:\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.csproj.CopyComplete
+E:\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.dll
+E:\EKANBAN_SYS\SCHEDULE\obj\x64\Release\SCHEDULE.pdb

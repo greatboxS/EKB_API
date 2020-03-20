@@ -1,0 +1,84 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_SYS_LIB.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_SYS_LIB.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_SYS_LIB.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BEAMCUT_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BUILDING.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\COMPONENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_HIS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_TASK.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EMPLOYEE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SCHEDULE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SEQUENCE.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\STOCK_MANAGEMENT.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BEAMCUT_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BEAMCUT_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BUILDING.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BUILDING.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\COMPONENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\COMPONENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_HIS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_HIS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_TASK.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_TASK.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EMPLOYEE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EMPLOYEE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SCHEDULE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SCHEDULE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SEQUENCE.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SEQUENCE.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\STOCK_MANAGEMENT.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\STOCK_MANAGEMENT.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_SYS_LIB.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_SYS_LIB.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_SYS_LIB.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BEAMCUT_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BUILDING.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\COMPONENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_HIS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_TASK.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EMPLOYEE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SCHEDULE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SEQUENCE.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\STOCK_MANAGEMENT.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BEAMCUT_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BEAMCUT_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BUILDING.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\BUILDING.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\COMPONENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\COMPONENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_HIS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_HIS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_TASK.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EKANBAN_TASK.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EMPLOYEE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EMPLOYEE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SCHEDULE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SCHEDULE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SEQUENCE.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SEQUENCE.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\STOCK_MANAGEMENT.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\STOCK_MANAGEMENT.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_SYS_LIB\obj\x64\Debug\EKANBAN_SYS_LIB.pdb

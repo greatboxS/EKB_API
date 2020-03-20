@@ -1,0 +1,32 @@
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EKANBAN_HIS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EKANBAN_HIS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EKANBAN_HIS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\SYS_MODELS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\SYS_MODELS.pdb
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\SYS_MODELS.dll.config
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.csprojAssemblyReference.cache
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.csproj.CopyComplete
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.dll
+C:\Users\Dell-PC\OneDrive\RevolutionTwo\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EKANBAN_HIS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EKANBAN_HIS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EKANBAN_HIS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\Newtonsoft.Json.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\SYS_MODELS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\SYS_MODELS.pdb
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\SYS_MODELS.dll.config
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\bin\x64\Debug\Newtonsoft.Json.xml
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.csprojAssemblyReference.cache
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.csproj.CopyComplete
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.dll
+E:\Visual 19\EKB_SYSTEM_30_11\EKANBAN_SYS\EKANBAN_HIS\obj\x64\Debug\EKANBAN_HIS.pdb
