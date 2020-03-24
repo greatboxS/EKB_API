@@ -101,6 +101,7 @@ namespace EKB_WEBSERVER.API.RuntimeModels
             Department = employee.Department.Code;
             JobTitle = employee.JobTitle.Job;
         }
+
         public int id { get; set; }
         public int UserCode { get; set; }
         public string UserName { get; set; }

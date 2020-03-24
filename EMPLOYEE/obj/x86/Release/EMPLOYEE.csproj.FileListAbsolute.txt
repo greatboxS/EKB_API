@@ -15,4 +15,3 @@ E:\EKANBAN_SYS\EMPLOYEE\obj\x86\Release\EMPLOYEE.csproj.GenerateResource.cache
 E:\EKANBAN_SYS\EMPLOYEE\obj\x86\Release\EMPLOYEE.csproj.CopyComplete
 E:\EKANBAN_SYS\EMPLOYEE\obj\x86\Release\EMPLOYEE.dll
 E:\EKANBAN_SYS\EMPLOYEE\obj\x86\Release\EMPLOYEE.pdb
-E:\EKANBAN_SYS\EMPLOYEE\obj\x86\Release\EMPLOYEE.csprojAssemblyReference.cache
