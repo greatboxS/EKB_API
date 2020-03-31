@@ -44,3 +44,4 @@ E:\EKANBAN_SYS\EKANBAN_TASK\bin\Release\Newtonsoft.Json.xml
 E:\EKANBAN_SYS\EKANBAN_TASK\obj\Release\EKANBAN_TASK.csproj.CopyComplete
 E:\EKANBAN_SYS\EKANBAN_TASK\obj\Release\EKANBAN_TASK.dll
 E:\EKANBAN_SYS\EKANBAN_TASK\obj\Release\EKANBAN_TASK.pdb
+E:\EKANBAN_SYS\EKANBAN_TASK\obj\Release\EKANBAN_TASK.csprojAssemblyReference.cache

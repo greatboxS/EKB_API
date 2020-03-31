@@ -701,13 +701,24 @@ namespace EKANBAN_SYS_LIB
             catch { return null; }
         }
 
+        public BDeviceCutTimeRecord Get_DeviceLastRecord(int deviceId)
+        {
+            try
+            {
+                return BeamCutContext.BDeviceCutTimeRecords
+                    .Where(i => i.BeamCutDevice_Id == deviceId)
+                    .OrderByDescending(i => i.id)
+                    .FirstOrDefault();
+            }
+            catch { return null; }
+        }
+
         public bool AddNewBCutTimeRecord(BDeviceCutTimeRecord record)
         {
             try
             {
                 using (BeamCutContext = new BeamCutContext(database))
                 {
-
                     string datetime = DateTime.Now.ToString("dd/MM/yyyy");
                     var statistic = BeamCutContext.BMachineStatistices
                         .Where(i => i.BeamCutDevice_Id == record.BeamCutDevice_Id && i.Date == datetime)

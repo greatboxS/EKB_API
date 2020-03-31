@@ -30,6 +30,21 @@ namespace EKB_WEBSERVER.API.RuntimeModels
                 }
             }
 
+            var lastRecord = BeamCutQuery.Get_DeviceLastRecord(deviceId);
+
+            if (lastRecord != null)
+            {
+                DateTime updateTime = (DateTime)lastRecord.UpdateTime;
+                if (updateTime.DayOfYear == DateTime.Now.DayOfYear 
+                    && updateTime.Minute == DateTime.Now.Minute
+                    && updateTime.Hour == DateTime.Now.Hour)
+                {
+                    // duplicate update detected
+                    Exception = new RespException(false, "The cut time has been recorded", EKB_SYS_REQUEST.CUT_TIME_RECORD);
+                    return;
+                }
+            }
+
             BDeviceCutTimeRecord record = new BDeviceCutTimeRecord
             {
                 TotalCutTime = totalCutTime,

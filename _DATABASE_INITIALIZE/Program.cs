@@ -95,7 +95,7 @@ namespace _DATABASE_INITIALIZE
 
                 if (s.Contains("request-lastcut"))
                 {
-                    Console.WriteLine(JsonConvert.SerializeObject(new BLastCut(database, 4)));
+                    //Console.WriteLine(JsonConvert.SerializeObject(new BLastCut(database, 4)));
                 }
 
                 if (s.Contains("info"))
